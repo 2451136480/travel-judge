@@ -1,0 +1,18 @@
+{
+  "defaultAvatarUrl": "/static/img/default-avatar.svg",
+  "defaultCoverUrl": "/static/img/default-cover.svg",
+  "statusConfig": {
+    "0": {
+      "text": "待审核",
+      "color": "#e6a23c"
+    },
+    "1": {
+      "text": "已通过",
+      "color": "#67c23a"
+    },
+    "2": {
+      "text": "未通过",
+      "color": "#f56c6c"
+    }
+  }
+} 

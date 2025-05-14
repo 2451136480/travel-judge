@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "nickname": "系统管理员",
+    "permissions": ["approve", "reject", "delete"]
+  },
+  "reviewer": {
+    "username": "reviewer",
+    "password": "reviewer123",
+    "role": "reviewer",
+    "nickname": "内容审核员",
+    "permissions": ["approve", "reject"]
+  }
+} 
